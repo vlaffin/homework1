@@ -1,5 +1,8 @@
 ﻿//1 задача
 
+//Console.Write("Введите 2 числа,а мы подскажем какое из них больше,а какое меньше")
+
+
 //Console.Write("введите первое число: ");
 //int number1 = int.Parse(Console.ReadLine());
 
@@ -48,3 +51,19 @@
 //}
 //else
 //Console.Write(number1 +" - это число не является чётным, попробуйте другое число");
+
+//задача 4
+
+//Console.WriteLine("Введите число,а мы покажем все чётные числа, начиная от 1 и до вашего числа");
+    //Console.Write("Введите число: ");
+       // int number1 = int.Parse(Console.ReadLine());
+       // int i = 1;
+
+    //while (i <= number1)
+    //{
+      //  if (i % 2 == 0)
+      //   {
+      //       Console.Write(i + ", ");
+      //   }
+       //  i++;
+   // }
